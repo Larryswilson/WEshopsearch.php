@@ -1,8 +1,8 @@
 <?php
 /*
-    Purpose: Online Store
-    Author: LW
-    Date: November 2026
+  Author: Larry Wilson
+  Original date: September 2009
+  Updated: November 2026
  */
 
 // if the form is submitted
